@@ -1,3 +1,7 @@
-print('Modulo dos del proyecto')
+import os
+print('Modulo 1 del Proyecto App')
 input()
-print('impresiones por pantalla para cambio')
+os.system('cls')
+print('Impresiones por pantalla para ver los cambios')
+input()
+os.system('cls')
